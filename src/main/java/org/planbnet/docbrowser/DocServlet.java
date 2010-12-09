@@ -25,7 +25,7 @@ import com.google.common.io.ByteStreams;
  * <p>The artifact information is parsed from the request path:
  * <i>http://server/docservletcontext/GROUPID/ARTIFACTID/VERSION</i>
  * 
- * <p>There is very little errer handling right now, but it works for
+ * <p>There is very little error handling right now, but it works for
  * my purposes
  * 
  */
